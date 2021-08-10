@@ -516,7 +516,7 @@ body.ie .ibg img {
 	top: 0;
 }
 .menu__hide {
-	z-index: 15;
+	z-index: 14;
 	background-color: rgba(0, 0, 0, 0.884);
 	position: fixed;
 	width: 100%;
